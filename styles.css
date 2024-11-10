@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+  body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+	       text-align:center;
+	       background-color:lightblue
+        }
+        
+        #skills, #projects {
+            margin-bottom: 40px;
+        }
+        
+        #skills ul, #projects ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        #skills li, #projects li {
+            margin-bottom: 10px;
+        }
+        #projects li{
+			/* text-align:left;
+			align-items:center */
+		}
